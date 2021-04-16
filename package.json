@@ -1,0 +1,24 @@
+{
+  "name": "vanilla-template",
+  "version": "1.0.0",
+  "description": "Template for vanilla projects (no framework)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frant22/vanilla-template.git"
+  },
+  "keywords": [
+    "template",
+    "html",
+    "css"
+  ],
+  "author": "Frant22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frant22/vanilla-template/issues"
+  },
+  "homepage": "https://github.com/Frant22/vanilla-template#readme"
+}
