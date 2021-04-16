@@ -13,7 +13,9 @@
   "keywords": [
     "template",
     "html",
-    "css"
+    "css",
+    "javascript",
+    "eslint"
   ],
   "author": "Frant22",
   "license": "ISC",
